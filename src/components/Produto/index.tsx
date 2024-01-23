@@ -9,7 +9,7 @@ type Props = {
 }
 
 export const paraReal = (valor: number) =>
-  new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(
+  new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'EUR' }).format(
     valor
   )
 
@@ -33,7 +33,7 @@ const Produto = ({ game }: Props) => {
         <strong>{paraReal(game.preco)}</strong>
       </S.Prices>
       <S.BtnComprar onClick={() => dispatch(adicionar(game))} type="button">
-        Adicionar ao carrinho
+        Ajouter au panier
       </S.BtnComprar>
     </S.Produto>
   )

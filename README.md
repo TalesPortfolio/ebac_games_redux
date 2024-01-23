@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+======================= Portugues =======================
+## Ler Mais
+
+Estou utilizando o json serve, para executar minha lista de produtos rode o comando abaixo:
+# npx json-server db.json --port 4000 --delay 1000
+
+Estale o Redux e o redux toolkit executando o codio abaixo :
+# npm i --save react-redux @reduxjs/toolkit

@@ -16,11 +16,11 @@ const Header = () => {
 
   return (
     <S.Header>
-      <h1>EBAC Games</h1>
+      <h1>Games</h1>
       <div>
         <img src={cesta} />
         <span>
-          {itens.length} itens, valor total: {paraReal(valorTotal)}
+          {itens.length} articles, valeur totale: {paraReal(valorTotal)}
         </span>
       </div>
     </S.Header>

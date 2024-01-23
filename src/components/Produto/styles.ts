@@ -8,6 +8,9 @@ export const Titulo = styled.h3``
 
 export const Capa = styled.div`
   position: relative;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
 
   img {
     display: block;
