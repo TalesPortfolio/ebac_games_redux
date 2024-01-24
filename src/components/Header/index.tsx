@@ -2,7 +2,7 @@ import { useSelector } from 'react-redux'
 import * as S from './styles'
 
 import cesta from '../../assets/cesta.png'
-import { paraReal } from '../Produto'
+import { paraEuro } from '../Produto'
 
 import { RootReducer } from '../../store'
 
@@ -20,7 +20,7 @@ const Header = () => {
       <div>
         <img src={cesta} />
         <span>
-          {itens.length} articles, valeur totale: {paraReal(valorTotal)}
+          {itens.length} articles, valeur totale: {paraEuro(valorTotal)}
         </span>
       </div>
     </S.Header>
