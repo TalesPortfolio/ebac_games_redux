@@ -1,0 +1,196 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "FIFA 23",
+      "plataformas": [
+        "Xbox Series S/X",
+        "Windows",
+        "PS5"
+      ],
+      "precoAntigo": 40.74,
+      "preco": 32.22,
+      "categoria": "Esportes",
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/yM0eeJui8AFByeP5BC5XV5j9.png?w=440&thumb=false"
+    },
+    {
+      "id": 2,
+      "titulo": "Gotham Knights",
+      "plataformas": [
+        "Xbox Series S/X",
+        "PS5",
+        "Windows"
+      ],
+      "precoAntigo": 39.86,
+      "preco": 32.87,
+      "categoria": "Ação",
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1422/cXffCEiRPrxFapUs6zxJQp1k.png?w=440&thumb=false"
+    },
+    {
+      "id": 3,
+      "titulo": "The Witcher 3",
+      "plataformas": [
+        "Xbox Series S/X",
+        "PS5",
+        "Windows"
+      ],
+      "precoAntigo": 63.91,
+      "preco": 36.91,
+      "categoria": "Ação",
+      "imagem": "https://images.tcdn.com.br/img/editor/up/704508/witcher3.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Hogwarts Legacy",
+      "plataformas": [
+        "PS5",
+        "Windows"
+      ],
+      "precoAntigo": null,
+      "preco": 51.99,
+      "categoria": "Aventura",
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0919/JmxLZt6exeqcKRz7BSmK8aId.png?w=440&thumb=false"
+    },
+    {
+      "id": 5,
+      "titulo": "Resident Evil 4",
+      "plataformas": [
+        "PS5"
+      ],
+      "precoAntigo": null,
+      "preco": 50.2,
+      "categoria": "Ação",
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
+    },
+    {
+      "id": 6,
+      "titulo": " Zelda: Breath of the Wild",
+      "plataformas": [
+        "Nintendo Switch"
+      ],
+      "precoAntigo": null,
+      "preco": 51.49,
+      "categoria": "Aventura",
+      "imagem": "https://assets.nintendo.eu/image/upload/f_auto,c_limit,w_1920,q_75/MNS/NOE/70010000000023/SQ_NSwitch_TheLegendOfZeldaBreathOfTheWild_E?w=440&thumb=false"
+    },
+    {
+      "id": 7,
+      "titulo": "Call of Duty Warfare 2",
+      "plataformas": [
+        "PS5"
+      ],
+      "precoAntigo": null,
+      "preco": 60.99,
+      "categoria": "Ação",
+      "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202008/1900/lTSvbByTYMqy6R22teoybKCg.png?w=440&thumb=false"
+    },
+    {
+      "id": 8,
+      "titulo": " The Last Of Us ",
+      "plataformas": [
+        "Playstation 4",
+        "PS5",
+        "Xbox Series S/X"
+      ],
+      "precoAntigo": null,
+      "preco": 30.9,
+      "categoria": "Aventura-Terror",
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png?w=440&thumb=false"
+    },
+    {
+      "id": 9,
+      "titulo": " Spider-Man 2",
+      "plataformas": [
+        "PS5"
+      ],
+      "precoAntigo": null,
+      "preco": 56.5,
+      "categoria": "Aventura",
+      "imagem": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/spiderman_verse_rating_0.jpg?itok=N_U_lGHQ?w=440&thumb=false"
+    },
+    {
+      "id": 10,
+      "titulo": " The Last of Us Part II",
+      "plataformas": [
+        "Playstation 4",
+        "PS5",
+        "Xbox Series S/X"
+      ],
+      "precoAntigo": null,
+      "preco": 79,
+      "categoria": " Ação-aventura",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/96/The_Last_of_Us_2_capa.png"
+    },
+    {
+      "id": 11,
+      "titulo": " God Of War Ragnarök",
+      "plataformas": [
+        "PS5",
+        "Playstation 4",
+        "Windows"
+      ],
+      "precoAntigo": null,
+      "preco": 74.5,
+      "categoria": "Aventura",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmVwRz56tl2B1ix7nzJ-Ce5506NoWHIfn4kSqeCX0FrbU5NJQ4sb-JucqGpX6oRrPYZg&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "titulo": " Assassin's Creed Valhalla",
+      "plataformas": [
+        "PS5",
+        "Playstation 4"
+      ],
+      "precoAntigo": null,
+      "preco": 61.9,
+      "categoria": "Aventura",
+      "imagem": "https://store.playstation.com/store/api/chihiro/00_09_000/container/CA/en/99/UP0001-PPSA01491_00-GAME000000000000/0/image?_version=00_09_000&platform=chihiro&bg_color=000000&opacity=100&w=720&h=720"
+    },
+    {
+      "id": 13,
+      "titulo": " Banishers: New Eden",
+      "plataformas": [
+        "Windows"
+      ],
+      "precoAntigo": null,
+      "preco": 19,
+      "categoria": "Aventura",
+      "imagem": "https://cdn.cdkeys.com/700x700/media/catalog/product/n/e/new_project_-_2023-09-08t182846.773.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": " The Evil Within 2",
+      "plataformas": [
+        "PlayStation 4",
+        "Xbox One",
+        "Xbox Cloud"
+      ],
+      "precoAntigo": null,
+      "preco": 39.5,
+      "categoria": "Terror",
+      "imagem": "https://cdn.cdkeys.com/700x700/media/catalog/product/t/h/the_evil_within_2_cov_er.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": " Silent Hill: Memories",
+      "plataformas": [
+        "Nintendo Switch"
+      ],
+      "precoAntigo": null,
+      "preco": 59.9,
+      "categoria": "Terror",
+      "imagem": "https://assets-prd.ignimgs.com/2022/01/28/silent-hill-shattered-memories-button-crop-1643355903627.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "Sekiro: Shadows Die Twice",
+      "plataformas": [
+        "PS5"
+      ],
+      "precoAntigo": null,
+      "preco": 50.9,
+      "categoria": "Ação",
+      "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202010/2701/88iRoLoH4Rc1j17I7PwlGoJz.png"
+    }
+  ]
+}
