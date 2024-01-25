@@ -5,9 +5,9 @@
       "titulo": "FIFA 23",
       "plataformas": ["Xbox Series S/X","Windows","PS5"],
       "precoAntigo": 40.74,
-      "preco": 32.22,
+      "preco": 35.22,
       "categoria": "Esportes",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/yM0eeJui8AFByeP5BC5XV5j9.png?w=440&thumb=false"
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/yM0eeJui8AFByeP5BC5XV5j9.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "precoAntigo": 39.86,
       "preco": 32.87,
       "categoria": "Ação",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1422/cXffCEiRPrxFapUs6zxJQp1k.png?w=440&thumb=false"
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1422/cXffCEiRPrxFapUs6zxJQp1k.png"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "precoAntigo": null,
       "preco": 51.99,
       "categoria": "Aventura",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0919/JmxLZt6exeqcKRz7BSmK8aId.png?w=440&thumb=false"
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0919/JmxLZt6exeqcKRz7BSmK8aId.png"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "precoAntigo": null,
       "preco": 50.20,
       "categoria": "Ação",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "precoAntigo": null,
       "preco": 51.49,
       "categoria": "Aventura",
-      "imagem": "https://assets.nintendo.eu/image/upload/f_auto,c_limit,w_1920,q_75/MNS/NOE/70010000000023/SQ_NSwitch_TheLegendOfZeldaBreathOfTheWild_E?w=440&thumb=false"
+      "imagem": "https://assets.nintendo.eu/image/upload/f_auto,c_limit,w_1920,q_75/MNS/NOE/70010000000023/SQ_NSwitch_TheLegendOfZeldaBreathOfTheWild_E"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "precoAntigo": null,
       "preco": 60.99,
       "categoria": "Ação",
-      "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202008/1900/lTSvbByTYMqy6R22teoybKCg.png?w=440&thumb=false"
+      "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202008/1900/lTSvbByTYMqy6R22teoybKCg.png"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "precoAntigo": null,
       "preco": 30.90,
       "categoria": "Aventura-Terror",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png?w=440&thumb=false"
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "precoAntigo": null,
       "preco": 56.50,
       "categoria": "Aventura",
-      "imagem": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/spiderman_verse_rating_0.jpg?itok=N_U_lGHQ?w=440&thumb=false"
+      "imagem": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/spiderman_verse_rating_0.jpg?itok=N_U_lGHQ"
     },
     {
       "id": 10,
