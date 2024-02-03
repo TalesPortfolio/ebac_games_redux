@@ -23,6 +23,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "vercel-start": "json-server --watch db.json --port $PORT",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
